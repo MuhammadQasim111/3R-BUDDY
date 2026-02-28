@@ -1,0 +1,8 @@
+{
+  "name": "3R Buddy",
+  "description": "Scan items with your camera to identify the best way to dispose of them—Recycle, Compost, or Landfill. Help the planet one scan at a time.\nYOU \"\"\"need to integrate GreenPT and Wolfram in the application",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
